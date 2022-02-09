@@ -1,5 +1,5 @@
 # GithubBackup
-Retrieve your public and private github repositories and backup them in a specific folder.
+Retrieve your public and private github repositories and backup them in a specific folder. It will also fetch all the branchs.
 
 # Requirements
 Install curl, jq, git with the following commands:
