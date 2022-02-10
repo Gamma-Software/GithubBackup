@@ -20,4 +20,4 @@ Select the "repo:" and "admin:org" permissions.
 ## Usage
 Run the script `./backup.sh .env` to backup your repositories.
 On Linux, you can also create a cronjob to run the script every day at 1 a.m:
-`0 1 * * 1 bash /path_to_script/backup.sh`
+`0 1 * * 1 bash /path_to_script/backup.sh .env`
